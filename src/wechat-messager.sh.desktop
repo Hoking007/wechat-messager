@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/usr/bin/wechat-messager.sh
+Icon=dialog-scripts
+Name=wechat-messager.sh
+Path=
+Type=Application
+X-KDE-AutostartScript=true
